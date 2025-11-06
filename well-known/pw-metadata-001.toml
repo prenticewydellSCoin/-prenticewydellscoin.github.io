@@ -1,0 +1,1 @@
+Renamed `.well-known` to `well-known` for Netlify visibility — enabling public access to `pw-metadata-001.toml`
