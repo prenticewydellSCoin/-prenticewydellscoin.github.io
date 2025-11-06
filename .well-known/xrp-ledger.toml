@@ -1,0 +1,6 @@
+.well-known/xrp-ledger.toml[[ACCOUNTS]]
+address = "rJb99A7VrD2jQqSxquZCbKE1gK8aXMm7ZC"
+label = "PRENTICE WYDELL S COIN"
+network = "mainnet"
+desc = "Sovereign coin issued by PRENTICE WYDELL, anchored in capsule resale, dashboard playback, and diaspora governance."
+url = "https://prenticewyeditscoin.github.io"
