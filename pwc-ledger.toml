@@ -1,0 +1,9 @@
+[[currencies]]
+code = "PWC"
+issuer = "rJb99A7VrD2jQqSxquZCbKE1gK8aXMm7ZC"
+desc = "PRENTICE WYDELL S COIN — Sovereign Capsule Utility"
+
+[acceptance]
+title = "PRENTICE WYDELL Sovereign Acceptance Model"
+dashboard_segment = "PW-ACCEPT-001"
+issued_by = "PRENTICE WYDELL"
